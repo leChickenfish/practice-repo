@@ -1,27 +1,21 @@
-## First Name Last Name
+## Bassil Ghareeb
 
-### Term Year 
+### 1st year
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- intro to data science
 
-- Course 2
-
-- Course 3
-
-- Course 4
+- Precalculus Algebra/Trigonometry
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Video games
 
-- Thing 2
-
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Going out for walks or riding a bike
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/07/07
