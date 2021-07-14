@@ -8,6 +8,7 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 |:--------:|:-----------------------:|:----------------:|
 | Prefix   | *COP*                   |  *MAC*           |
 | Number   | *2073*                  |  *1147*          |
+
 **Hobbies:**
 
 I am _passionate about_: 
