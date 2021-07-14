@@ -4,10 +4,10 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- intro to data science
-
-- Precalculus Algebra/Trigonometry
-
+| Classes  | _Intro to Data Science_ |  _Pre-Calculus_  |
+|:--------:|:-----------------------:|:----------------:|
+| Prefix   | *COP*                   |  *MAC*           |
+| Number   | *2073*                  |  *1147*          |
 **Hobbies:**
 
 I am _passionate about_: 
@@ -18,4 +18,4 @@ I am _passionate about_:
 
 ***
 
-> Last modified: 2021/07/07
+> Last modified: 2021/07/14
