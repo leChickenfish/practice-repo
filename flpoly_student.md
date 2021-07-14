@@ -6,8 +6,8 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 | Classes  | _Intro to Data Science_ |  _Pre-Calculus_  |
 |:--------:|:-----------------------:|:----------------:|
-| Prefix   | *COP*                   |  *MAC*           |
-| Number   | *2073*                  |  *1147*          |
+| Prefix   | **COP**                 |  **MAC**         |
+| Number   | **2073**                |  **1147**        |
 
 **Hobbies:**
 
